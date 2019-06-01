@@ -5,6 +5,7 @@ client.login (process.env.TOKEN);
 
 const activities_list = [
   "son cercueil.",
+  "son cercueil.",
     ]; // creates an arraylist containing phrases you want your bot to switch through.
 
 client.on('ready', () => {
